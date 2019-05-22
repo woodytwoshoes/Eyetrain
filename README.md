@@ -1,6 +1,6 @@
 # Eyetrain
 
-Training a fast.ai model to recognzied the pupil-iris ratio
+Training a fast.ai model to recognzied the pupil-limbus ratio
 
 I have a dataset of ~150 images of eyes which contain the file name GoodPLR_[PLR]_[random number].
 The dataset is small, so the model will not be very accurate. This is acceptable as it will later be taught using a larger dataset.
